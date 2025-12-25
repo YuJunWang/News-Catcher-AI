@@ -81,7 +81,7 @@ News-Catcher-AI/
 
 **王譽鈞 (YuJunWang)**
 
-* Data Engineer / Data Scientist
+* Data Engineer / Data Scientist / AI-Augmented Developer 
 
-* \[GitHub Profile](https://github.com/YuJunWang)
+* [GitHub Profile](https://github.com/YuJunWang)
 
