@@ -50,17 +50,11 @@
 
 ## 📂 專案結構 (Project Structure)
 ```text
-
 News-Catcher-AI/
-
 ├── data/               # 數據樣本 (Sample Data)
-
 ├── docs/               # 技術報告與簡報 (PDF Presentation)
-
 ├── notebooks/          # 核心程式碼 (Main Pipeline)
-
 ├── .gitignore          # 忽略敏感設定 (Security)
-
 └── README.md           # 專案說明文件
 ```
 
